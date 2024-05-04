@@ -8,3 +8,8 @@ int main() {
     printf("They call me \"Fisher\".");
     return 0;
 }
+
+// Simple short comment 
+
+/* Long comment with 
+few lines */
